@@ -35,7 +35,7 @@ print("Variance =", variance)
 ```
 # OUTPUT:
 
-<img width="818" height="884" alt="image" src="https://github.com/user-attachments/assets/6b2897aa-77a6-4c12-9103-99bcee01bd6c" />
+
 <img width="740" height="769" alt="image" src="https://github.com/user-attachments/assets/2b06467c-919e-48f5-b926-c0707ff41759" />
 
 
